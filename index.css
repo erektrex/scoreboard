@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    color: white;
+    text-align: center;
+}
+
+.black-card {
+    background-color: #080001;
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    text-align: center;
+    padding: 0.1rem 2rem ;
+    
+}
+
+.numbers {
+    display: flex;
+    gap: 0.7rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    
+}
+
+
+.numbers button {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    border: solid #9AABD8 ;
+    border-radius: 10%;
+    padding: 0.1rem;
+    background-color: #1B244A ;
+
+    
+}
